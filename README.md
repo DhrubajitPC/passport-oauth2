@@ -1,5 +1,8 @@
 # passport-oauth2
 
+This has been forked from the original repo and changed to cater to DBS bank oauth2.
+For some reason, the `oauth` library dependency used by the original repo was not working for DBS. So I replaced that dependency with `simple-oauth2` library and tweaked the code enough to get the data I needed from DBS.
+
 [![Build](https://img.shields.io/travis/jaredhanson/passport-oauth2.svg)](https://travis-ci.org/jaredhanson/passport-oauth2)
 [![Coverage](https://img.shields.io/coveralls/jaredhanson/passport-oauth2.svg)](https://coveralls.io/r/jaredhanson/passport-oauth2)
 [![Quality](https://img.shields.io/codeclimate/github/jaredhanson/passport-oauth2.svg?label=quality)](https://codeclimate.com/github/jaredhanson/passport-oauth2)
