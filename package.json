@@ -1,7 +1,7 @@
 {
-  "name": "passport-oauth2",
-  "version": "1.4.0",
-  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "name": "passport-dbs-oauth2",
+  "version": "1.0.0",
+  "description": "DBS Bank's OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
     "passport",
     "auth",
@@ -15,7 +15,9 @@
   "author": {
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "url": "http://www.jaredhanson.net/",
+    "editor": "Dhrubajit Paul Chowdhury",
+    "editor_email": "dhrubajit1992@gmail.com",
   },
   "repository": {
     "type": "git",
